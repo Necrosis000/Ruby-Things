@@ -2,6 +2,13 @@
   "item.rubythings.ruby": "Ruby",
   "item.rubythings.raw_ruby": "Raw Ruby",
 
+  "item.rubythings.ruby_sword": "Ruby Sword",
+  "item.rubythings.ruby_pickaxe": "Ruby Pickaxe",
+  "item.rubythings.ruby_axe": "Ruby Axe",
+  "item.rubythings.ruby_shovel": "Ruby Shovel",
+  "item.rubythings.ruby_hoe": "Ruby Hoe",
+
+
   "block.rubythings.ruby_block": "Block of Ruby",
   "block.rubythings.ruby_ore": "Ruby Ore",
   "block.rubythings.ruby_deepslate_ore": "Deepslate Ruby Ore",

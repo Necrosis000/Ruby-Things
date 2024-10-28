@@ -5,6 +5,7 @@ import net.fabricmc.api.ModInitializer;
 import net.necrosis.rubythings.block.ModBlocks;
 import net.necrosis.rubythings.item.ModItemGroups;
 import net.necrosis.rubythings.item.ModItems;
+import net.necrosis.rubythings.util.ModTags;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

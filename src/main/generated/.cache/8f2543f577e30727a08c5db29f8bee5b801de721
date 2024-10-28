@@ -1,3 +1,4 @@
-// 1.21.1	2024-10-28T12:49:35.7957105	RubyThings/Tags for minecraft:block
+// 1.21.1	2024-10-28T16:20:26.1897889	RubyThings/Tags for minecraft:block
 3c082853bad87dfef81f8e4f62c24b9660dc19b3 data\minecraft\tags\block\needs_iron_tool.json
+32b13946c4cd1f944b029659ccce5fcb2adad4ff data\rubythings\tags\block\needs_ruby_tool.json
 3c082853bad87dfef81f8e4f62c24b9660dc19b3 data\minecraft\tags\block\mineable\pickaxe.json

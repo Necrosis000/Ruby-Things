@@ -5,6 +5,7 @@ import net.fabricmc.fabric.api.datagen.v1.provider.FabricTagProvider;
 import net.minecraft.registry.RegistryWrapper;
 import net.minecraft.registry.tag.BlockTags;
 import net.necrosis.rubythings.block.ModBlocks;
+import net.necrosis.rubythings.util.ModTags;
 
 import java.util.concurrent.CompletableFuture;
 
@@ -24,5 +25,9 @@ public class ModBlockTagProvider extends FabricTagProvider.BlockTagProvider {
                 .add(ModBlocks.RUBY_BLOCK)
                 .add(ModBlocks.RUBY_ORE)
                 .add(ModBlocks.RUBY_DEEPSLATE_ORE);
+
+        getOrCreateTagBuilder(ModTags.Blocks.NEEDS_RUBY_TOOL)
+                .addTag(BlockTags.NEEDS_IRON_TOOL);
+
     }
 }
