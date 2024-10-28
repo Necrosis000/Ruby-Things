@@ -2,5 +2,9 @@
   "item.rubythings.ruby": "Ruby",
   "item.rubythings.raw_ruby": "Raw Ruby",
 
+  "block.rubythings.ruby_block": "Block of Ruby",
+  "block.rubythings.ruby_ore": "Ruby Ore",
+  "block.rubythings.ruby_deepslate_ore": "Deepslate Ruby Ore",
+
   "itemgroup.rubythings.ruby_things_items": "Ruby Things"
 }

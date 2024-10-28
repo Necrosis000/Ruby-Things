@@ -1,11 +1,11 @@
-// 1.21.1	2024-10-28T12:15:27.4466654	RubyThings/Model Definitions
+// 1.21.1	2024-10-28T12:49:35.8478243	RubyThings/Model Definitions
 6362fd0fbe9b0e809082d70188c71f4bd44c78f3 assets\rubythings\models\block\ruby_block.json
-45c8871f3f011c9afccaf73095dcd4b8e96afd8d assets\rubythings\models\item\ruby.json
 e90d3fdccbd94fa4d9c4be644b36b23f1c9003df assets\rubythings\blockstates\ruby_deepslate_ore.json
-f8d2b179731c091b1c09b7a061a0be06b3dfd708 assets\rubythings\models\item\ruby_ore.json
+45c8871f3f011c9afccaf73095dcd4b8e96afd8d assets\rubythings\models\item\ruby.json
 1a546670ea7f8411f1a9f231eeef52f5c7cccb03 assets\rubythings\models\item\ruby_deepslate_ore.json
-6e1d905cceaa43f438073d6b70f229110b05a773 assets\rubythings\models\item\ruby_block.json
+f8d2b179731c091b1c09b7a061a0be06b3dfd708 assets\rubythings\models\item\ruby_ore.json
 eab9358de0285fdb9cad7d33139380b151fe50bd assets\rubythings\models\block\ruby_deepslate_ore.json
+6e1d905cceaa43f438073d6b70f229110b05a773 assets\rubythings\models\item\ruby_block.json
 c44a4d409b40cfebccd0159f2274005bd40d192b assets\rubythings\blockstates\ruby_ore.json
 d11d814852dc75bb9002d6d400f8d1e88806d966 assets\rubythings\models\item\raw_ruby.json
 ad095ea1771bd50902b5cf58d9308188181a8f72 assets\rubythings\blockstates\ruby_block.json
