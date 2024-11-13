@@ -2,14 +2,14 @@
 	"schemaVersion": 1,
 	"id": "rubythings",
 	"version": "${version}",
-	"name": "RubyThings",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"name": "Ruby Things",
+	"description": "A mod that adds rubies + more",
 	"authors": [
 		"Necrosis"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://necrosis.pages.dev",
+		"sources": "https://github.com/Necrosis000/Ruby-Things"
 	},
 	"license": "MIT",
 	"icon": "assets/rubythings/icon.png",

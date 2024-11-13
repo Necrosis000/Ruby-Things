@@ -1,0 +1,17 @@
+{
+  "item.rubythings.ruby": "Rubi",
+  "item.rubythings.raw_ruby": "Rubi bruto",
+  "item.rubythings.ruby_sword": "Espada de rubi",
+  "item.rubythings.ruby_pickaxe": "Picareta de rubi",
+  "item.rubythings.ruby_axe": "Machado de rubi",
+  "item.rubythings.ruby_shovel": "Pá de rubi",
+  "item.rubythings.ruby_hoe": "Enxada de rubi",
+  "item.rubythings.ruby_helmet": "Capacete de rubi",
+  "item.rubythings.ruby_chestplate": "Peitoral de rubi",
+  "item.rubythings.ruby_leggings": "Calças de rubi",
+  "item.rubythings.ruby_boots": "Botas de rubi",
+  "block.rubythings.ruby_block": "Bloco de rubi",
+  "block.rubythings.ruby_ore": "Minério de rubi",
+  "block.rubythings.ruby_deepslate_ore": "Minério de rubi de ardósia",
+  "itemgroup.rubythings.ruby_things_items": "Itens de rubi"
+}
