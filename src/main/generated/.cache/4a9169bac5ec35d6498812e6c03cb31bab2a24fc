@@ -1,6 +1,7 @@
-// 1.21.1	2024-10-28T16:20:26.3000551	RubyThings/Tags for minecraft:item
+// 1.21.1	2024-10-28T19:50:45.6607565	RubyThings/Tags for minecraft:item
 8b68122e1664421cfb6af6092965c928b789667f data\minecraft\tags\item\pickaxes.json
 981c0169eb69447309242a5460eb9f398f87b868 data\minecraft\tags\item\hoes.json
+8ec2e0bdc29772b3ef38c444ff51ed831af67ed5 data\minecraft\tags\item\trimmable_armor.json
 1c9c5e9f2091373a0e213845c421501af84a7c05 data\minecraft\tags\item\shovels.json
 051e274f1b5631b23ad54ad9d220418ad2a48c99 data\minecraft\tags\item\swords.json
 8d638d05e556aa06017bd47854b792e98d3e4c05 data\minecraft\tags\item\axes.json
