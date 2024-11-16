@@ -25,3 +25,6 @@ A: Sure! I don't mind my mod being in a modpack
 
 ### Extra
 Welcome to the github repository. Expect messy code as this is my first published mod I have made. If there is an issue please create one and let me know!
+
+
+Discord coming soon
