@@ -1,0 +1,21 @@
+{
+  "item.rubythings.ruby": "루비",
+  "item.rubythings.raw_ruby": "루비 원석",
+
+  "item.rubythings.ruby_sword": "루비 검",
+  "item.rubythings.ruby_pickaxe": "루비 곡괭이",
+  "item.rubythings.ruby_axe": "루비 도끼",
+  "item.rubythings.ruby_shovel": "루비 삽",
+  "item.rubythings.ruby_hoe": "루비 괭이",
+
+  "item.rubythings.ruby_helmet": "루비 투구",
+  "item.rubythings.ruby_chestplate": "루비 흉갑",
+  "item.rubythings.ruby_leggings": "루비 레깅스",
+  "item.rubythings.ruby_boots": "루비 부츠",
+
+  "block.rubythings.ruby_block": "루비 블록",
+  "block.rubythings.ruby_ore": "루비 광석",
+  "block.rubythings.ruby_deepslate_ore": "심층암 루비 광석",
+
+  "itemgroup.rubythings.ruby_things_items": "루비 물건"
+}
